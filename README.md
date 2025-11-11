@@ -25,7 +25,6 @@ When I’m not coding, I’m probably learning new tools, experimenting with eth
 
 ###  How to reach me  
 📧 **ezrawork12@gmail.com**  
-🔗 [Resume / Experience](https://drive.google.com/file/d/1CIuBKGMpD2ca9_Ojwd28Vuq3uzK7B21V/view?usp=drive_link)  
 
 ---
 
