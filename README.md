@@ -1,30 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rmen (Ezra)</h1>
+<h1 align="center">Hi, I'm Rmen (Ezra)</h1>
 <h3 align="center"> Web Developer |  Cybersecurity Enthusiast |  Open Source Learner</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I’m a passionate **developer & cybersecurity enthusiast** who enjoys solving problems with **code, creativity, and curiosity**.  
 When I’m not coding, I’m probably learning new tools, experimenting with ethical hacking, or brainstorming crazy project ideas.  
 
 -  I’m currently working on **full-stack web apps** & **cybersecurity tools**  
 -  I’m diving deep into **API security, ethical hacking & advanced JavaScript frameworks**  
 -  I’m looking to collaborate on **open-source projects and security research**  
--  Fun fact: I love **turning coffee ☕ into code** and I enjoy building tools that break things (ethically 😉)  
+-  Fun fact: I love **turning coffee ☕ into code** and I enjoy building tools that break things (ethically)  
 
 ---
 
-### 💬 Ask me about
+### Ask me about
 - Web Development (**React, Next.js, Node.js, Express**)  
 - Cybersecurity & Ethical Hacking (**XSS, SQLi, API Security**)  
 - Building **automation tools** with Python  
 - UI/UX & Creative Frontend Designs  
 - Anything tech + creative 
-
----
-
-###  How to reach me  
-📧 **ezrawork12@gmail.com**  
 
 ---
 
@@ -54,4 +49,3 @@ When I’m not coding, I’m probably learning new tools, experimenting with eth
 
 ---
 
-✨ *Thanks for stopping by! Let’s build something awesome together.* 🚀
